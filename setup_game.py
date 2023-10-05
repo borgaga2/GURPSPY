@@ -80,14 +80,14 @@ class MainMenu(input_handlers.BaseEventHandler):
         console.print(
             console.width // 2,
             console.height // 2 - 4,
-            "TOMBS OF THE ANCIENT KINGS",
+            "GURPSPY",
             fg=color.menu_title,
             alignment=tcod.CENTER,
         )
         console.print(
             console.width // 2,
             console.height - 2,
-            "By (Your name here)",
+            "By Borgaga2",
             fg=color.menu_title,
             alignment=tcod.CENTER,
         )
