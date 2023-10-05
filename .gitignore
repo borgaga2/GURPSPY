@@ -216,3 +216,9 @@ Temporary Items
 
 # Saved games
 *.sav
+*.vsidx
+.vs/PythonSettings.json
+.vs/ProjectSettings.json
+.vs/GURPSPY/v17/.wsuo
+.vs/slnx.sqlite
+.vs/VSWorkspaceState.json
